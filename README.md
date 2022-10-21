@@ -1,4 +1,5 @@
-# Frontend Mentor Challenge - 3-Componente tarjeta de 3 columnas
+# Frontend Mentor Challenge 
+## 3-Componente tarjeta de 3 columnas
 
 ![Design preview for the 3-column preview card component coding challenge](/images/desktop-preview.jpg)
 
