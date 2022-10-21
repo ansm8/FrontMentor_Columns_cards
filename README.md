@@ -1,10 +1,10 @@
-# Frontend Mentor Challenge - 3-column preview card component solution
+# Frontend Mentor Challenge - 3-Componente tarjeta de 3 columnas
 
 ![Design preview for the 3-column preview card component coding challenge](/images/desktop-preview.jpg)
 
 ## Hola! 😊
 
-La solucion al reto [3-column preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/3column-preview-card-component-pH92eAR2-) 
+La solución al reto [3-column preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/3column-preview-card-component-pH92eAR2-) 
 
 ## Construido con:
 - HTML
