@@ -2,13 +2,16 @@
 
 ![Design preview for the 3-column preview card component coding challenge](/images/desktop-preview.jpg)
 
-## Hi! Hope you enjoy it 👋
+## Hola! 😊
 
-This is a solution to the [3-column preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/3column-preview-card-component-pH92eAR2-) 
+La solucion al reto [3-column preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/3column-preview-card-component-pH92eAR2-) 
 
-
-## Resources
+## Construido con:
 - HTML
 - CSS
-- Google Fonts
+
+## Contacto
+- 💼 LinkedIn: [Andrea Sosa](https://www.linkedin.com/in/andrea-sosamolina/)
+- 📧 Gmail: sosandrea95@gmail.com
+
 
